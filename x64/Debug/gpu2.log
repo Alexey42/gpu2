@@ -1,3 +1,35 @@
 ﻿  main.cpp
-C:\Users\55000\source\repos\gpu2\main.cpp(125,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\55000\source\repos\gpu2\main.cpp(301,15): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\55000\source\repos\gpu2\main.cpp(308,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\55000\source\repos\gpu2\main.cpp(310,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\55000\source\repos\gpu2\main.cpp(332,59): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\55000\source\repos\gpu2\main.cpp(360,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\55000\source\repos\gpu2\main.cpp(61,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\55000\source\repos\gpu2\main.cpp(340): message : выполняется компиляция ссылки на экземпляр шаблон функции "T *mult_opencl<float>(size_t,size_t,T *,T *,T *,cl_device_id,size_t)"
+          with
+          [
+              T=float
+          ]
+C:\Users\55000\source\repos\gpu2\main.cpp(62,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\55000\source\repos\gpu2\main.cpp(69,33): warning C4838: Преобразование из "int" в "size_t" требует сужающего преобразования.
+C:\Users\55000\source\repos\gpu2\main.cpp(69,36): warning C4838: Преобразование из "int" в "size_t" требует сужающего преобразования.
+C:\Users\55000\source\repos\gpu2\main.cpp(123,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\55000\source\repos\gpu2\main.cpp(373): message : выполняется компиляция ссылки на экземпляр шаблон функции "T *mult_opencl_optimized<float>(size_t,size_t,T *,T *,T *,cl_device_id,size_t)"
+          with
+          [
+              T=float
+          ]
+C:\Users\55000\source\repos\gpu2\main.cpp(124,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\55000\source\repos\gpu2\main.cpp(131,33): warning C4838: Преобразование из "int" в "size_t" требует сужающего преобразования.
+C:\Users\55000\source\repos\gpu2\main.cpp(131,36): warning C4838: Преобразование из "int" в "size_t" требует сужающего преобразования.
+C:\Users\55000\source\repos\gpu2\main.cpp(171,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\55000\source\repos\gpu2\main.cpp(397): message : выполняется компиляция ссылки на экземпляр шаблон функции "T *mult_opencl_image<float>(size_t,size_t,T *,T *,T *,cl_device_id,size_t)"
+          with
+          [
+              T=float
+          ]
+C:\Users\55000\source\repos\gpu2\main.cpp(190,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\55000\source\repos\gpu2\main.cpp(191,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\55000\source\repos\gpu2\main.cpp(198,33): warning C4838: Преобразование из "int" в "size_t" требует сужающего преобразования.
+C:\Users\55000\source\repos\gpu2\main.cpp(198,36): warning C4838: Преобразование из "int" в "size_t" требует сужающего преобразования.
   gpu2.vcxproj -> C:\Users\55000\source\repos\gpu2\x64\Debug\gpu2.exe
